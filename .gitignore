@@ -1,0 +1,15 @@
+# Compiled Java
+*.class
+out/
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
